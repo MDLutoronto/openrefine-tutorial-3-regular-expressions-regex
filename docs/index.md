@@ -4,6 +4,9 @@ layout: "home"
 description: "You were introduced to GREL in the previous activity, so you know that GREL is a powerful tool for cleaning/editing your data. You can make GREL even more powerful by learning how to use regular expressions (aka regex). A regular expression is a sequence of characters that define a search pattern – it is used to search for matches within text. In OpenRefine, you can use it in your GREL expressions to create sophisticated patterns describing what type of information you want to find within your dataset, then do something with the matching text (edit it, delete it, put it in a new column, etc.)."
 permalink: "/"  #! Remove this if not the homepage
 staff:
+ - name: Leanne Trimble
+   link: https://library.utoronto.ca/staff/leanne-trimble
+maintainer:
  - name: Nick Field
    link: https://library.utoronto.ca/staff/nick-field
 ---
